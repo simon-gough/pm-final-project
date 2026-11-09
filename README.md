@@ -10,8 +10,8 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 | # | Deliverable | Module | Status | File |
 |---|---|---|---|---|
-| 1 | **Strategic Discovery Map** (groundwork) | M1 | ☐ | `01-product-thinking/strategic-map.md` |
-| 1 | **Problem Hook & Value Proposition** (+ hypothesis) | M1 | ☐ | `01-product-thinking/problem-hook.md` |
+| 1 | **Strategic Discovery Map** (groundwork) | M1 | ☑ | `01-product-thinking/strategic-map.md` |
+| 1 | **Problem Hook & Value Proposition** (+ hypothesis) | M1 | ☑ | `01-product-thinking/problem-hook.md` |
 | 2 | **AI Synthesis**, Product Health & Insights Summary | M2 | ☐ | `02-discovery/ai-synthesis.md` |
 | 2 | **Competitive Analysis & Journey Map** | M2 | ☐ | `02-discovery/competitive-and-journey.md` |
 | 3 | **Hypothesis & Success Metrics** | M3 | ☐ | `03-analytics/hypothesis-and-metrics.md` |
